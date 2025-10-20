@@ -18,6 +18,8 @@ Key features (example):
 - Dashboard and auth flows under `app/` with nested layouts
 - Utilities and client actions under `app/_lib/` (e.g., Appwrite helpers)
 
+aa
+
 ## Tech stack
 
 - Next.js (App Router) — React framework for server rendering and routing
